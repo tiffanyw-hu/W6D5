@@ -1,0 +1,28 @@
+#root {
+}
+
+.clock {
+  background-image: url("./psychadelic-nufixed.jpg");
+  background-size: cover;
+  font-family: 'Monoton', cursive;
+  border: 2px solid black;
+  display: block;
+  text-align: center;
+  font-size: 30px
+
+}
+
+.clock p {
+  font-size: 50px;
+  font-weight: 300;
+  color: red;
+}
+
+.clock h1 {
+  color: red;
+  font-weight: 400;
+}
+
+.clock .time {
+  font-size: 70px;
+}
